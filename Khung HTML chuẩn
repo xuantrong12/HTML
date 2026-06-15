@@ -1,0 +1,28 @@
+<!-- TODO: Editor 1: Khung HTML chuẩn
+Yêu cầu: Hoàn thiện index.html có DOCTYPE, html lang, head, meta charset, title, body, h1 và p.
+Gợi ý: Đọc mục 2.1.1; tự gõ khung từ trên xuống.
+Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor online để chạy thử. -->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO</title>
+  <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
+</head>
+<body>
+  <header>
+    <h1>Chào mừng đến với trang web của tôi</h1>
+  </header>
+
+  <main>
+    <p>Đây là đoạn văn bản mẫu được đặt trong khung HTML chuẩn. Bạn có thể thay thế nội dung này bằng các thẻ khác như bảng (table), danh sách (ul/ol), hoặc biểu mẫu (form) tùy theo yêu cầu của bài tập.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Tên của bạn. Tất cả các quyền được bảo lưu.</p>
+  </footer>
+
+</body>
+</html>
